@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hola, soy Tomás 👋
+# Hola! soy Tomás 👋
 
 ### Fullstack Developer | Backend & Integrations | Data Solutions
 
@@ -174,7 +174,7 @@ Entre mis actividades se encuentran:
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TomasLopezPrimi&theme=github-compact&hide_border=true)
+[![GitHub](https://img.shields.io/badge/Ver_mis_contribuciones-GitHub-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomasLopezPrimi?tab=overview&from=2026-01-01&to=2026-12-31)
 
 </div>
 
