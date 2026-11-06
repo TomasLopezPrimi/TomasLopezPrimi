@@ -17,13 +17,15 @@ Me especializo en **backend, integración de sistemas, procesamiento asíncrono 
 
 ## Sobre mí
 
-Soy desarrollador fullstack, con especial foco en backend, arquitectura de aplicaciones e integraciones.
+Soy desarrollador de software fullstack, especializado en backend, arquitectura de sistemas e integraciones.
 
-Trabajo en el diseño y desarrollo de sistemas empresariales, plataformas de gestión, integraciones con servicios externos y automatizaciones basadas en datos.
+Mi experiencia se centra en el diseño y desarrollo de soluciones tecnológicas para empresas, desde plataformas de gestión y aplicaciones empresariales hasta integraciones con servicios externos, automatización de procesos y soluciones basadas en datos.
 
-Me interesa construir soluciones completas, desde el diseño de su arquitectura hasta su implementación, mantenimiento y evolución, trabajando junto a otros equipos para comprender los procesos y las necesidades de los usuarios.
+Me enfoco en desarrollar sistemas escalables, mantenibles y orientados a resolver necesidades concretas de negocio, participando en todo el ciclo de desarrollo: desde el análisis de requerimientos y el diseño de la arquitectura hasta la implementación y evolución de las soluciones.
 
-Actualmente desarrollo proyectos en **Solu**, dentro del área de Data Solutions, y soy desarrollador de **Tender®**.
+Actualmente lidero proyectos tecnológicos en Solu, dentro del área de Data Solutions, combinando el desarrollo técnico con la colaboración entre equipos para transformar necesidades operativas en soluciones de software.
+
+En paralelo, soy desarrollador de Tender®, donde trabajo en sus plataformas de ecommerce y gestión empresarial, además de desarrollar proyectos personales de software.
 
 ---
 
@@ -170,15 +172,7 @@ Entre mis actividades se encuentran:
 
 ---
 
-## GitHub Activity
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/Ver_mis_contribuciones-GitHub-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomasLopezPrimi?tab=overview&from=2026-01-01&to=2026-12-31)
-
-</div>
-
----
 
 <div align="center">
 
